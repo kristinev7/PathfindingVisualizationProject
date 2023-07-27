@@ -11,7 +11,7 @@ export default function Main() {
     useEffect(() => {
         main.from(
             mainh1.current,
-            {
+            { 
                 duration: 0.6,
                 skewX: 10,
                 x: -100,
